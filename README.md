@@ -27,11 +27,3 @@ To make this project accessible even without a running MongoDB instance (whether
 - MongoDB (optional, can be local or containerized)
 - Docker (used in my development setup)
 
-## 📁 Folder Structure
-
-.
-├── api/ # API route handlers (e.g., getPaymentWithUser)
-├── data/ # Sample data or database mocks
-├── solution.js # Output of all required functions
-├── Dockerfile # (Optional) Development container config
-└── README.md
